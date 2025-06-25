@@ -1,0 +1,14 @@
+{
+  "name": "jbot-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for JBots with view-once, anti-delete, AI, music, games, pairing code, and more.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.5",
+    "node-fetch": "^2.6.7",
+    "openai": "^4.41.0"
+  }
+}
